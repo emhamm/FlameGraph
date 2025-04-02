@@ -1,4 +1,4 @@
-#!/usr/bin/env perl
+#!/usr/bin/env -S env perl
 #
 # Copyright (c) 2014 Ed Maste.  All rights reserved.
 #

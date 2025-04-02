@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env -S bash
 #
 # record-test.sh - Overwrite flame graph test result files.
 #
